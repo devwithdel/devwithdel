@@ -1,6 +1,6 @@
-# Hi, I'm Del
+# Hi, I'm Del!
 
-**BSIT Student · Developer · Designer**
+**BSIT Student · Developer**
 
 I'm a third-year **BSIT student at La Salle University–Ozamiz** interested in building modern applications and turning ideas into practical digital experiences.
 
@@ -41,7 +41,7 @@ I enjoy working across **web development, software development, and UI/UX design
 ### Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodbatlas,supabase" alt="Database Technologies"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,supabase" alt="Database Technologies"/>
 </p>
 
 ### Mobile
