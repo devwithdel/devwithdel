@@ -4,8 +4,6 @@
 
 I'm a third-year **BSIT student at La Salle University–Ozamiz** interested in building modern applications and turning ideas into practical digital experiences.
 
-I enjoy working across **web development, software development, and UI/UX design**, while continuously learning new technologies and improving my skills.
-
 ---
 
 ## Connect with me
