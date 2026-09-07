@@ -41,7 +41,7 @@ I enjoy working across **web development, software development, and UI/UX design
 ### Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" alt="Database Technologies"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodbatlas,supabase" alt="Database Technologies"/>
 </p>
 
 ### Mobile
