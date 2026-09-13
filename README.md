@@ -33,7 +33,7 @@ I'm a third-year **BSIT student at La Salle University–Ozamiz** interested in 
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,dotnet" alt="Backend Technologies"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel" alt="Backend Technologies"/>
 </p>
 
 ### Database
